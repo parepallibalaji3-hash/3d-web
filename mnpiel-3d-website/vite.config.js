@@ -14,8 +14,7 @@ export default defineConfig({
     }
   },
   build: {
-    outDir: '../backend/mnpiepl-frontend',
+    outDir: 'dist',
     emptyOutDir: true,
   }
 })
-
