@@ -92,7 +92,7 @@ function App() {
             LOADING DGPS ENGINE
           </h2>
           <div style={{ fontSize: '0.8rem', color: 'var(--text-muted)', marginTop: '0.5rem', fontFamily: 'monospace' }}>
-            INITIALIZING CONTOURS... {loadingProgress}%
+            
           </div>
         </div>
       )}
